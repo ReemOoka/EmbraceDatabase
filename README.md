@@ -67,6 +67,7 @@ warehouse-management-system/
 2. Run the system:
 ```bash
 python main.py
+```
 
 ---
 
